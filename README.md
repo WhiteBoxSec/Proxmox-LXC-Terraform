@@ -5,7 +5,7 @@ This is for a Debian 12 LXC container in Proxmox.
 
 ## Usage
 
-Add your credentials to the credentials file.
+Add your credentials to the variables file.
 
 How to create a new user and API key.
 
