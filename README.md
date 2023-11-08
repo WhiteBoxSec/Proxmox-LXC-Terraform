@@ -11,6 +11,8 @@ How to create a new user and API key.
 
 https://registry.terraform.io/providers/Telmate/proxmox/latest/docs
 
+Username and password auth works too. Uncomment the lines in the files and comment out the api ones. 
+
 
 Plan the LXC container 
 ```
