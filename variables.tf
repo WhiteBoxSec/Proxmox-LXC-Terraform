@@ -1,5 +1,5 @@
 # Proxmox API configuration
-proxmox_api_url      = "https://10.50.50.227:8006/api2/json"  # Proxmox IP or hostname
+proxmox_api_url      = "https://10.10.10.10:8006/api2/json"  # Proxmox IP or hostname
 proxmox_username     = "user@pve!user"
 proxmox_password     = "N/A" # Not needed if using API Token
 proxmox_api_token      = "user@pve!user" # Not needed if using password
