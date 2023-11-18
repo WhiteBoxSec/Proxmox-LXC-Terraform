@@ -1,4 +1,4 @@
-# Proxmox-Terraform-LXC
+# Proxmox-LXC-Terraform
 Terraform template for creating Debian LXC container in Proxmox. 
 
 This is for a Debian 12 LXC container in Proxmox.
