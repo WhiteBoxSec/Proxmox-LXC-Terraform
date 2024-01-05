@@ -126,7 +126,8 @@ resource "proxmox_lxc" "example_container" {
   cores        = var.cores
   password     = var.user_password
   onboot       = true
-  ostype = "l26"
+  # Caused error with Proxmox8
+  #ostype = "l26"
   
   #hastate      = "started"
   ssh_public_keys = var.ssh_keys
